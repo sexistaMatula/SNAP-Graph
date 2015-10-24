@@ -1,0 +1,5 @@
+--------
+/home/alexis/Desktop/Snap-2.4/examples/testgraph/testgraph.Err
+Fri Oct 23 14:08:03 2015
+Execution stopped: Graph->IsNode(StartNId), file ../../snap-core/bfsdfs.h, line 91
+--------
